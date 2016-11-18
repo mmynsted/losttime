@@ -1,4 +1,5 @@
-# losttime
+# Losttime
+
 Compute time spent based on tags applied to cal entries.
 
 | tag | time |
